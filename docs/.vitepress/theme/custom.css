@@ -1,0 +1,19 @@
+:root {
+  --js-yellow: rgb(246, 221, 59);
+  --denver-red: #B31534;
+  --vp-c-brand: var(--denver-red);
+  --vp-home-hero-name-color: var(--denver-red);
+}
+
+html.dark {
+  --vp-c-brand: var(--js-yellow);
+  --vp-home-hero-name-color: var(--js-yellow);
+}
+
+html.dark a {
+  color: var(--js-yellow);
+}
+
+a {
+  color: var(--denver-red);
+}
