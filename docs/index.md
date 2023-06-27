@@ -14,7 +14,7 @@ hero:
       link: /code-of-conduct/
 features:
   - title: Monthly Meetup
-    details: Checkout our <a target="_blank" rel="noopener noreferrer" href="https://www.meetup.com/DenverScript/">meetup.com</a> page to RSVP for the next meetup.
+    details: Checkout our <a target="_blank" rel="noopener noreferrer" href="https://www.meetup.com/DenverScript">meetup.com</a> page to RSVP for the next meetup.
   - title: Talks
     details: Checkout our <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCIatzpIjlgtFsGofeZSdVLQ">youtube channel</a> to watch the meetup LIVE or to browse past talks.
   - title: Submit a talk
