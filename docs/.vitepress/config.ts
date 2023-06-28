@@ -13,7 +13,16 @@ export default defineConfig({
     nav: [
       { text: "Organizers", link: "/organizers/" },
       { text: "Code of Conduct", link: "/code-of-conduct/" },
+      { text: "JS News", link: "/news/"},
       { text: "Submit a Talk", link: "https://forms.gle/5A26sY5475X8J14S8" },
     ],
+    sidebar: {
+      '/news/': [
+        {
+        text: 'JS News Archive',
+        items: []
+      }
+      ]
+    }
   }
 })
