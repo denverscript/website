@@ -17,12 +17,13 @@ export default defineConfig({
       { text: "Submit a Talk", link: "https://forms.gle/5A26sY5475X8J14S8" },
     ],
     sidebar: {
-      '/news/': [
-        {
+      '/news/': [{
         text: 'JS News Archive',
-        items: []
-      }
-      ]
+        items: [{
+          text: "June 2023",
+          link: "/news/2023-06.md",
+        }]
+      }]
     }
   }
 })
