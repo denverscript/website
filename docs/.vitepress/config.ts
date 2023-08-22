@@ -22,6 +22,9 @@ export default defineConfig({
         items: [{
           text: "June 2023",
           link: "/news/2023-06.md",
+        }, {
+          text: "August 2023",
+          link: "/news/2023-08.md",
         }]
       }]
     }
