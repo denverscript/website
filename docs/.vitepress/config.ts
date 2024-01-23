@@ -14,6 +14,7 @@ export default defineConfig({
       { text: "Organizers", link: "/organizers/" },
       { text: "Code of Conduct", link: "/code-of-conduct/" },
       { text: "JS News", link: "/news/"},
+      { text: "Activities", link: "/activities/"},
       { text: "Submit a Talk", link: "https://forms.gle/5A26sY5475X8J14S8" },
     ],
     sidebar: {
