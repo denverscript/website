@@ -3,7 +3,7 @@ Meet the organizers! If you see us at the meetup or anywhere else around Denver,
 
 <div class="organizers">
   <div class="organizer">
-    <img alt="Justin Beaudry" src="/images/jb.jpg">
+    <img alt="Justin Beaudry" src="/images/justin.jpeg">
     <p>
       <span class="organizer-name">Justin Beaudry</span> - <span class="pronouns">he/him</span> - Director of Engineering at Actual Reality Technologies, and Full Stack Developer.
     </p>
