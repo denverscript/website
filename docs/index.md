@@ -15,8 +15,9 @@ hero:
 features:
   - title: Monthly Meetup
     details: Checkout our <a target="_blank" rel="noopener noreferrer" href="https://www.meetup.com/gdg-toledo-meetup">meetup.com</a> page to RSVP for the next meetup.
-  # - title: Talks
-  #   details: Checkout our <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCIatzpIjlgtFsGofeZSdVLQ">youtube channel</a> to watch the meetup LIVE or to browse past talks.
+  - title: Talks
+    details: Checkout our <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@ToledoCodes">youtube channel</a> to watch the meetup LIVE or to browse past talks.
   - title: Submit a talk
-    details: Interested in speaking at our meetup? Submit a talk <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/NXUCdorAAG2d2un47">here</a>! Talks of all types and skill levels are welcome.
+    details: Interested in speaking at our meetup? Submit a talk <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSdmtoPEoZJ-V300oVOFj5twtTZBcLcDmr-sKHlD6WUrxsSZ0g/viewform?usp=sharing">here</a>! Talks of all types and skill levels are welcome.
+
 ---
