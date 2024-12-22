@@ -1,5 +1,5 @@
 
-Meet the organizers! If you see us at the meetup or anywhere else around Denver, be sure to say hello / introduce yourself.
+Meet the organizers! If you see us at the meetup or anywhere else around Toledo, be sure to say hello / introduce yourself.
 
 <div class="organizers">
   <div class="organizer">
