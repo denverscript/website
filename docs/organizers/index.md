@@ -5,13 +5,19 @@ Meet the organizers! If you see us at the meetup or anywhere else around Toledo,
   <div class="organizer">
     <img alt="Justin Beaudry" src="/images/justin.jpeg">
     <p>
-      <span class="organizer-name">Justin Beaudry</span> - <span class="pronouns">he/him</span> - Director of Engineering at Actual Reality Technologies, and Full Stack Developer.
+      <span class="organizer-name"><a href="https://beaudry.dev" target="_blank">Justin Beaudry</a></span> - <span class="pronouns">he/him</span> - Justin Beaudry is a seasoned software and systems engineer. As the Director of Engineering at Actual Reality Technologies, Justin has led teams across the stack—from front-end interfaces to data infrastructure—delivering for startups and larger enterprises alike. His career spans roles at companies like Vida Health, United Airlines, and JetInsight, where he championed collaborative, people-first engineering cultures.
     </p>
   </div>
+   <div class="organizer">
+    <img alt="Keith Instone" src="/images/keith.png">
+    <p>
+      <span class="organizer-name">Keith Instone</span> - <span class="pronouns">he/him</span> - I am a user experience consultant, working with business and IT teams to define, design and deliver great experiences for people using technology. As part of Tech Toledo (from 2011-2019), I helped foster the tech ecosystem in the Toledo region. With things like Toledo Codes, time for the next iteration.
+    </p>
+  </div> 
   <div class="organizer">
     <img alt="Greg Miller" src="/images/greg.jpeg">
     <p>
-      <span class="organizer-name">Greg Miller</span> - <span class="pronouns">he/him</span> - Over the years my role has shifted to include a variety of roles and experiences. My emphasis is on a web site's front-end and enjoys digging into the concept, visual design, user experience, and product development. I am driven to self improvement, challenging to grow and build skills. I work hard to be a contributing, and self-managing team partner.
+      <span class="organizer-name"><a href="https://gregmiller.io/" target="_blank">Greg Miller</a></span> - <span class="pronouns">he/him</span> - Over the years my role has shifted to include a variety of roles and experiences. My emphasis is on a web site's front-end and enjoys digging into the concept, visual design, user experience, and product development. I am driven to self improvement, challenging to grow and build skills. I work hard to be a contributing, and self-managing team partner.
     </p>
   </div>
   <div class="organizer">

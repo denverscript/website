@@ -1,19 +1,19 @@
 :root {
-  --js-yellow: rgb(246, 221, 59);
-  --denver-red: #B31534;
-  --vp-c-brand: var(--denver-red);
-  --vp-home-hero-name-color: var(--denver-red);
+  --white: #ffffff;
+  --toledo-blue: #191970;
+  --vp-c-brand: var(--toledo-blue);
+  --vp-home-hero-name-color: var(--toledo-blue);
 }
 
 html.dark {
-  --vp-c-brand: var(--js-yellow);
-  --vp-home-hero-name-color: var(--js-yellow);
+  --vp-c-brand: var(--white);
+  --vp-home-hero-name-color: var(--white);
 }
 
 html.dark a {
-  color: var(--js-yellow);
+  color: var(--white);
 }
 
 a {
-  color: var(--denver-red);
+  color: var(--toledo-blue);
 }

@@ -7,10 +7,11 @@ export default defineConfig({
   themeConfig: {
     socialLinks: [
       { icon: 'github', link: 'https://github.com/toledocodes' },
-      // { icon: 'youtube', link: 'https://www.youtube.com/channel/UCIatzpIjlgtFsGofeZSdVLQ' }
+      { icon: 'youtube', link: 'https://www.youtube.com/@ToledoCodes' }
     ],
     nav: [
       { text: "Organizers", link: "/organizers/" },
+      { text: "Partners", link: "/partners/" },
       { text: "Code of Conduct", link: "/code-of-conduct/" },
       { text: "News", link: "/news/"},
       { text: "Activities", link: "/activities/"},
