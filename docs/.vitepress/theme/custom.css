@@ -1,19 +1,67 @@
 :root {
-  --white: #ffffff;
+  /* Brand Colors */
   --toledo-blue: #191970;
+  --toledo-light-blue: #4040a1;
+  --toledo-lighter-blue: #6060c2;
+  --white: #ffffff;
+  
+  /* Theme Colors */
   --vp-c-brand: var(--toledo-blue);
+  --vp-c-brand-light: var(--toledo-light-blue);
+  --vp-c-brand-lighter: var(--toledo-lighter-blue);
+  --vp-c-brand-dark: var(--toledo-blue);
+  --vp-c-brand-darker: var(--toledo-blue);
+  
+  /* Specific Elements */
   --vp-home-hero-name-color: var(--toledo-blue);
+  --vp-button-brand-bg: var(--toledo-blue);
+  --vp-button-brand-hover-bg: var(--toledo-light-blue);
+  
+  /* Custom Link Colors */
+  --vp-c-brand-1: var(--toledo-blue);
+  --vp-c-brand-2: var(--toledo-light-blue);
+  --vp-c-brand-3: var(--toledo-lighter-blue);
 }
 
+/* Dark Theme Overrides */
 html.dark {
-  --vp-c-brand: var(--white);
-  --vp-home-hero-name-color: var(--white);
+  --vp-c-brand: var(--toledo-lighter-blue);
+  --vp-c-brand-light: var(--toledo-light-blue);
+  --vp-c-brand-lighter: var(--white);
+  --vp-home-hero-name-color: var(--toledo-lighter-blue);
+  --vp-button-brand-bg: var(--toledo-lighter-blue);
+  --vp-button-brand-hover-bg: var(--toledo-light-blue);
+  
+  /* Custom Link Colors in Dark Mode */
+  --vp-c-brand-1: var(--toledo-lighter-blue);
+  --vp-c-brand-2: var(--toledo-light-blue);
+  --vp-c-brand-3: var(--toledo-blue);
 }
 
-html.dark a {
-  color: var(--white);
+/* Custom Link Styles */
+.VPLink {
+  color: var(--vp-c-brand-1);
 }
 
-a {
-  color: var(--toledo-blue);
+.VPLink:hover {
+  color: var(--vp-c-brand-2);
+}
+
+/* Custom Button Styles */
+.VPButton.brand {
+  border-color: var(--vp-button-brand-bg);
+}
+
+.VPButton.brand:hover {
+  border-color: var(--vp-button-brand-hover-bg);
+}
+
+/* Custom Sidebar Styles */
+.VPSidebar {
+  --vp-c-bg-soft: var(--vp-c-bg);
+}
+
+/* Custom Nav Styles */
+.VPNavBar.has-sidebar .content {
+  background-color: var(--vp-c-bg);
 }
