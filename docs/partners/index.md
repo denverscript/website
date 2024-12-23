@@ -13,6 +13,15 @@ Toledo Codes is proud to partner with these amazing organizations that help fost
   </div>
 
   <div class="partner">
+    <a href="https://www.empoweredai.org/" target="_blank" class="partner-link">
+      <h3>EmpoweredAI</h3>
+    </a>
+    <p>
+      EmpoweredAI is a non-profit organization that aims to empower individuals and communities through AI education and resources. They provide workshops, mentorship, and support for those interested in learning about and applying AI technologies.
+    </p>
+  </div>
+
+  <div class="partner">
     <a href="https://gdg.community.dev/gdg-toledo-1/" target="_blank" class="partner-link">
       <h3>Toledo Google Developer Group</h3>
     </a>
