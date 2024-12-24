@@ -2,6 +2,8 @@
 
 Toledo Codes is proud to partner with these amazing organizations that help foster and grow the tech community in Northwest Ohio.
 
+Interested in partnering with us? Send an email to <a href="mailto:toledocodes@gmail.com">toledocodes@gmail.com</a>.
+
 <div class="partners">
   <div class="partner">
     <a href="https://actualreality.tech" target="_blank" class="partner-link">
