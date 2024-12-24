@@ -38,15 +38,6 @@ Toledo Codes is proud to partner with these amazing organizations that help fost
       Toledo Tech Loft is a coworking space and tech hub in downtown Toledo. They provide a collaborative environment for tech professionals, entrepreneurs, and remote workers.
     </p>
   </div>
-
-  <div class="partner">
-    <a href="https://techtoledo.com/" target="_blank" class="partner-link">
-      <h3>Tech Toledo</h3>
-    </a>
-    <p>
-      Tech Toledo is a community organization dedicated to growing the tech ecosystem in Toledo. They connect people, companies, and resources to help make Toledo a great place for tech.
-    </p>
-  </div>
 </div>
 
 <style>
