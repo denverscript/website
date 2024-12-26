@@ -1,4 +1,21 @@
 import { defineConfig } from 'vitepress'
+import { createContentLoader } from 'vitepress'
+
+// Load all posts to generate the sidebar
+const postsPromise = createContentLoader('news/posts/*.md', {
+  transform(raw) {
+    return raw
+      .map(({ url, frontmatter }) => ({
+        text: frontmatter.title,
+        link: url,
+        date: frontmatter.date
+      }))
+      .sort((a, b) => b.date.getTime() - a.date.getTime())
+  }
+})
+
+// Get the posts synchronously
+const posts = await postsPromise.load()
 
 export default defineConfig({
   title: "Toledo Codes",
@@ -14,17 +31,15 @@ export default defineConfig({
       { text: "Partners", link: "/partners/" },
       { text: "Code of Conduct", link: "/code-of-conduct/" },
       { text: "News", link: "/news/"},
-      { text: "Activities", link: "/activities/"},
       { text: "Submit a Talk", link: "https://forms.gle/NXUCdorAAG2d2un47" },
     ],
     sidebar: {
-      '/news/': [{
-        text: 'News Archive',
-        items: [{
-          text: 'December 2024',
-          link: '/news/2024-12.md',
-        }]
-      }]
+      '/news/posts/': [
+        {
+          text: 'Recent Posts',
+          items: posts
+        }
+      ]
     }
   }
 })
