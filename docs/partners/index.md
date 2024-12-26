@@ -1,4 +1,6 @@
-# Community Partners
+---
+title: Community Partners
+---
 
 Toledo Codes is proud to partner with these amazing organizations that help foster and grow the tech community in Northwest Ohio.
 

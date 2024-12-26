@@ -1,3 +1,6 @@
+---
+title: Organizers
+---
 
 Meet the organizers! If you see us at the meetup or anywhere else around Toledo, be sure to say hello / introduce yourself.
 
