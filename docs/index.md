@@ -29,5 +29,5 @@ features:
 ::: warning 🎯 Help Shape Our Community!
 We want to hear from you! Take our quick community survey to help us better understand your needs and interests. Your feedback will directly influence our future events and initiatives.
 
-[Take the Survey →](https://docs.google.com/forms/d/e/1FAIpQLSdmtoPEoZJ-V300oVOFj5twtTZBcLcDmr-sKHlD6WUrxsSZ0g/viewform?usp=sharing){target="_blank" rel="noopener noreferrer" .survey-link}
+[Take the Survey →](https://docs.google.com/forms/d/e/1FAIpQLSff3SkO92jTEirw2z8uhGvSsXM2hMz9QmaRYjS6sobzKkrAFw/viewform?usp=sharing){target="_blank" rel="noopener noreferrer" .survey-link}
 :::
