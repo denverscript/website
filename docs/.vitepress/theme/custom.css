@@ -65,3 +65,19 @@ html.dark {
 .VPNavBar.has-sidebar .content {
   background-color: var(--vp-c-bg);
 }
+
+/* Survey Emphasis */
+.VPFeature .title a[href*="survey"] {
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+}
+
+.VPFeature .title a[href*="survey"]:hover {
+  color: var(--vp-c-brand-2);
+  text-decoration: underline;
+}
+
+/* Emoji spacing */
+.VPFeature .title emoji {
+  margin-right: 0.5rem;
+}
