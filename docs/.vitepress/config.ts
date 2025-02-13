@@ -5,6 +5,11 @@ export default defineConfig({
   description: "Toledo Codes",
   cleanUrls: true,
   themeConfig: {
+    logo: {
+      light: '/images/toledocodes-logo.png',
+      dark: '/images/toledocodes-logo-dark.png',
+      alt: 'Toledo Codes'
+    },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/toledocodes' },
       { icon: 'youtube', link: 'https://www.youtube.com/@ToledoCodes' }

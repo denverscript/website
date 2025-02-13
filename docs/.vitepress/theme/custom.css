@@ -112,3 +112,73 @@ html.dark {
 html.dark .survey-callout {
   background-color: var(--vp-c-brand-1);
 }
+
+/* Top Warning Container */
+.vp-doc > div.warning:first-child {
+  margin: 0;
+  border-radius: 0;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  padding: 1rem;
+  text-align: center;
+  background-color: var(--vp-c-brand-1);
+  color: var(--white);
+}
+
+.vp-doc > div.warning:first-child .warning-title {
+  display: none;
+}
+
+.vp-doc > div.warning:first-child a {
+  color: var(--white);
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+.vp-doc > div.warning:first-child a:hover {
+  text-decoration: none;
+}
+
+/* Survey Container */
+.custom-block.survey {
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 800px;
+  padding: 0.75rem 1rem;
+  background-color: var(--vp-c-brand-1);
+  color: var(--white);
+  border-radius: 8px;
+  font-weight: 500;
+  border: none;
+}
+
+.custom-block.survey p {
+  color: var(--white);
+  margin: 0;
+}
+
+.custom-block.survey strong {
+  color: var(--white);
+  font-weight: 600;
+}
+
+.custom-block.survey a {
+  color: var(--white);
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+.custom-block.survey a:hover {
+  color: var(--white);
+  text-decoration: none;
+}
+
+.custom-block.survey .custom-block-title {
+  display: none;
+}
+
+/* Hero Section Adjustments */
+.VPHero {
+  padding-bottom: 0 !important;
+}

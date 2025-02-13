@@ -3,10 +3,10 @@ layout: home
 
 hero:
   image:
-    dark: ./images/toledocodes-logo-dark.png
-    light: ./images/toledocodes-logo.png
+    src: /images/toledocodes-logo.png
     alt: Toledo Codes
-  tagline: We are a community of software developers, designers, entrepreneurs, and tech enthusiasts in the Toledo area. We meet every month to talk about technology, software development, and more.<br><br><div class="survey-callout">🎯 <strong>Help Shape Our Community!</strong> Take our quick <a href="https://docs.google.com/forms/d/e/1FAIpQLSff3SkO92jTEirw2z8uhGvSsXM2hMz9QmaRYjS6sobzKkrAFw/viewform?usp=sharing" target="_blank" rel="noopener noreferrer">community survey</a> to help us better understand your needs and interests.</div>
+    dark: /images/toledocodes-logo-dark.png
+  tagline: We are a community of software developers, designers, entrepreneurs, and tech enthusiasts in the Toledo area. We meet every month to talk about technology, software development, and more.
   actions:
     - theme: alt
       text: Meet the Organizers
@@ -17,6 +17,13 @@ hero:
     - theme: alt
       text: Read the Code of Conduct
       link: /code-of-conduct/
+
+survey:
+  title: Help Shape Our Future!
+  tagline: Take our 5-minute community survey to influence our 2025 meetups and help build the tech community you want to see.
+  link: https://docs.google.com/forms/d/e/1FAIpQLSff3SkO92jTEirw2z8uhGvSsXM2hMz9QmaRYjS6sobzKkrAFw/viewform?usp=sharing
+  buttonText: Take the Survey →
+
 features:
   - title: <a target="_blank" rel="noopener noreferrer" href="https://lu.ma/toledocodes">Monthly Meetup</a>
     details: Checkout our <a target="_blank" rel="noopener noreferrer" href="https://lu.ma/toledocodes">lu.ma</a> page to RSVP for the next meetup.
