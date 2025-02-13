@@ -81,3 +81,34 @@ html.dark {
 .VPFeature .title emoji {
   margin-right: 0.5rem;
 }
+
+/* Survey Callout in Hero */
+.survey-callout {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.75rem 1rem;
+  background-color: var(--vp-c-brand-1);
+  color: var(--white);
+  border-radius: 8px;
+  font-weight: 500;
+}
+
+.survey-callout strong {
+  color: var(--white);
+  font-weight: 600;
+}
+
+.survey-callout a {
+  color: var(--white);
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+.survey-callout a:hover {
+  color: var(--white);
+  text-decoration: none;
+}
+
+html.dark .survey-callout {
+  background-color: var(--vp-c-brand-1);
+}

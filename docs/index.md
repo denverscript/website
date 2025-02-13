@@ -6,7 +6,7 @@ hero:
     dark: ./images/toledocodes-logo-dark.png
     light: ./images/toledocodes-logo.png
     alt: Toledo Codes
-  tagline: We are a community of software developers, designers, entrepreneurs, and tech enthusiasts in the Toledo area. We meet every month to talk about technology, software development, and more.
+  tagline: We are a community of software developers, designers, entrepreneurs, and tech enthusiasts in the Toledo area. We meet every month to talk about technology, software development, and more.<br><br><div class="survey-callout">🎯 <strong>Help Shape Our Community!</strong> Take our quick <a href="https://docs.google.com/forms/d/e/1FAIpQLSff3SkO92jTEirw2z8uhGvSsXM2hMz9QmaRYjS6sobzKkrAFw/viewform?usp=sharing" target="_blank" rel="noopener noreferrer">community survey</a> to help us better understand your needs and interests.</div>
   actions:
     - theme: alt
       text: Meet the Organizers
@@ -25,9 +25,3 @@ features:
   - title: <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSdmtoPEoZJ-V300oVOFj5twtTZBcLcDmr-sKHlD6WUrxsSZ0g/viewform?usp=sharing">Submit a talk</a>
     details: Interested in speaking at our meetup? Submit a talk <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSdmtoPEoZJ-V300oVOFj5twtTZBcLcDmr-sKHlD6WUrxsSZ0g/viewform?usp=sharing">here</a>! Talks of all types and skill levels are welcome.
 ---
-
-::: warning 🎯 Help Shape Our Community!
-We want to hear from you! Take our quick community survey to help us better understand your needs and interests. Your feedback will directly influence our future events and initiatives.
-
-[Take the Survey →](https://docs.google.com/forms/d/e/1FAIpQLSff3SkO92jTEirw2z8uhGvSsXM2hMz9QmaRYjS6sobzKkrAFw/viewform?usp=sharing){target="_blank" rel="noopener noreferrer" .survey-link}
-:::
