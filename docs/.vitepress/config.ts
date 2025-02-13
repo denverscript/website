@@ -6,8 +6,8 @@ export default defineConfig({
   cleanUrls: true,
   themeConfig: {
     logo: {
-      light: '/images/toledocodes-logo.png',
-      dark: '/images/toledocodes-logo-dark.png',
+      light: './images/toledocodes-logo.png',
+      dark: './images/toledocodes-logo-dark.png',
       alt: 'Toledo Codes'
     },
     socialLinks: [
