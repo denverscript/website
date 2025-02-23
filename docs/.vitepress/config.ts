@@ -19,7 +19,16 @@ export default defineConfig({
       { text: "Partners", link: "/partners/" },
       { text: "Code of Conduct", link: "/code-of-conduct/" },
       { text: "News", link: "/news/"},
-      { text: "Submit a Talk", link: "https://forms.gle/NXUCdorAAG2d2un47" },
+      { text: "Submit a Talk", link: "/submit-talk" },
     ],
+  },
+  // head: [],
+  vite: {
+    server: {
+      proxy: {
+        '/survey': 'https://docs.google.com/forms/d/e/1FAIpQLSff3SkO92jTEirw2z8uhGvSsXM2hMz9QmaRYjS6sobzKkrAFw/viewform?usp=sharing',
+        '/submit-talk': 'https://docs.google.com/forms/d/e/1FAIpQLSdmtoPEoZJ-V300oVOFj5twtTZBcLcDmr-sKHlD6WUrxsSZ0g/viewform?usp=sharing'
+      }
+    }
   }
 })

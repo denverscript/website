@@ -21,7 +21,7 @@ hero:
 survey:
   title: Help Shape Our Future!
   tagline: Take our 5-minute community survey to influence our 2025 meetups and help build the tech community you want to see.
-  link: https://docs.google.com/forms/d/e/1FAIpQLSff3SkO92jTEirw2z8uhGvSsXM2hMz9QmaRYjS6sobzKkrAFw/viewform?usp=sharing
+  link: /survey/
   buttonText: Take the Survey →
 
 features:
@@ -29,6 +29,6 @@ features:
     details: Checkout our <a target="_blank" rel="noopener noreferrer" href="https://lu.ma/toledocodes">lu.ma</a> page to RSVP for the next meetup.
   - title: <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@ToledoCodes">Talks</a>
     details: Our <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@ToledoCodes">YouTube channel</a> will livestream talks and let you browse past talks.
-  - title: <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSdmtoPEoZJ-V300oVOFj5twtTZBcLcDmr-sKHlD6WUrxsSZ0g/viewform?usp=sharing">Submit a talk</a>
-    details: Interested in speaking at our meetup? Submit a talk <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSdmtoPEoZJ-V300oVOFj5twtTZBcLcDmr-sKHlD6WUrxsSZ0g/viewform?usp=sharing">here</a>! Talks of all types and skill levels are welcome.
+  - title: <a target="_blank" rel="noopener noreferrer" href="/submit-talk/">Submit a talk</a>
+    details: Interested in speaking at our meetup? Submit a talk <a target="_blank" rel="noopener noreferrer" href="/submit-talk/">here</a>! Talks of all types and skill levels are welcome.
 ---
