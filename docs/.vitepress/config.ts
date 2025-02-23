@@ -24,11 +24,19 @@ export default defineConfig({
   },
   // head: [],
   vite: {
-    server: {
+    server: process.env.NODE_ENV === 'development' ? {
       proxy: {
-        '/survey': 'https://docs.google.com/forms/d/e/1FAIpQLSff3SkO92jTEirw2z8uhGvSsXM2hMz9QmaRYjS6sobzKkrAFw/viewform?usp=sharing',
-        '/submit-talk': 'https://docs.google.com/forms/d/e/1FAIpQLSdmtoPEoZJ-V300oVOFj5twtTZBcLcDmr-sKHlD6WUrxsSZ0g/viewform?usp=sharing'
+        '/survey': {
+          target: 'https://docs.google.com/forms/d/e/1FAIpQLSff3SkO92jTEirw2z8uhGvSsXM2hMz9QmaRYjS6sobzKkrAFw/viewform?usp=sharing',
+          changeOrigin: true,
+          rewrite: (path) => path.replace(/^\/survey/, '')
+        },
+        '/submit-talk': {
+          target: 'https://docs.google.com/forms/d/e/1FAIpQLSdmtoPEoZJ-V300oVOFj5twtTZBcLcDmr-sKHlD6WUrxsSZ0g/viewform?usp=sharing',
+          changeOrigin: true,
+          rewrite: (path) => path.replace(/^\/submit-talk/, '')
+        }
       }
-    }
+    } : undefined
   }
 })
