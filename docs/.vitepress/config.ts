@@ -19,7 +19,7 @@ export default defineConfig({
       { text: "Partners", link: "/partners/" },
       { text: "Code of Conduct", link: "/code-of-conduct/" },
       { text: "News", link: "/news/"},
-      { text: "Submit a Talk", link: "/submit-talk" },
+      { text: "Submit a Talk", link: "https://toledo.codes/submit-talk/", target: '_self' },
     ],
   },
   // head: [],
