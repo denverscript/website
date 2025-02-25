@@ -1,7 +1,7 @@
 ---
 title: Hello, Toledo
 date: 2025-02-25
-excerpt: A new year, a new meetup, and the first meetup for Toledo Codes.
+excerpt: A new year, a new meetup
 ---
 
 # Hello, Toledo
