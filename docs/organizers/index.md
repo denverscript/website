@@ -3,24 +3,9 @@ Meet the organizers! If you see us at the meetup or anywhere else around Denver,
 
 <div class="organizers">
   <div class="organizer">
-    <img alt="cj" src="/images/cj.png">
+    <img alt="cj" src="/images/cj.jpg">
     <p>
-      <span class="organizer-name">CJ</span> - <span class="pronouns">he/him</span> - Live Coding Educator @ Coding Garden, Former co-organizer of the Denver Vue.js Meetup, Spends his time writing TypeScript + React + Svelte and Node.js
-    </p>
-  </div>
-
-
-  <div class="organizer">
-    <img alt="marlena baker" src="/images/marlena.jpg">
-    <p>
-      <span class="organizer-name">Marlena Baker</span> - she/her - Full Stack Developer seeking her next Adventure, Former co-organizer of the Denver Vue.js Meetup, Recently fell in love with TypeScript, Lately has been playing around with Vue 3 and Svelte
-    </p>
-  </div>
-
-  <div class="organizer">
-    <img alt="Will Klein" src="/images/will.jpg">
-    <p>
-      <span class="organizer-name">Will Klein</span> - <span class="pronouns">he/him</span> - Taking a break from being a Senior Design Systems Developer Advocate to spend time with his family, Founder of the HartfordJS meetup in 2013, Co-organizer for React Denver since 2014, Cares a lot about finding speakers from underrepresented groups, Has organized Global Diversity CFP Day workshops in Denver and Boulder
+      <span class="organizer-name">CJ</span> - <span class="pronouns">he/him</span> - Senior Creator @ Syntax / Sentry and Live Coding Educator @ Coding Garden, Former co-organizer of the Denver Vue.js Meetup, Spends his time writing TypeScript + React + Svelte and Node.js
     </p>
   </div>
 
@@ -32,9 +17,16 @@ Meet the organizers! If you see us at the meetup or anywhere else around Denver,
   </div>
 
   <div class="organizer">
-    <img alt="Josh" src="/images/josh.jpg">
+    <img alt="marlena baker" src="/images/marlena.jpg">
     <p>
-      <span class="organizer-name">Josh</span> - <span class="pronouns">he/him</span> - Former React Denver co-organizer, Galvanize Grad, JavaScript advocate, Frontend Open Source Dev with a passion for exploring the World, Tech Startups, and Algorave DJ in training learning the art of blending creativity with live coding & inspiring music
+      <span class="organizer-name">Marlena Baker</span> - she/her - Full Stack Developer seeking her next Adventure, Former co-organizer of the Denver Vue.js Meetup, Recently fell in love with TypeScript, Lately has been playing around with Vue 3 and Svelte
+    </p>
+  </div>
+
+  <div class="organizer">
+    <img alt="Chad" src="/images/chad.png">
+    <p>
+      <span class="organizer-name">Chad</span> - <span class="pronouns">he/him</span> - Full-snack Developer based in Denver, CO. He codes with javascript, typescript, nodejs, redwoodjs, directus, reactjs and sveltejs 
     </p>
   </div>
 </div>

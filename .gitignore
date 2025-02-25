@@ -133,3 +133,5 @@ dist
 docs/.vitepress/cache
 docs/.vitepress/dist
 .vercel
+
+.DS_STORE
