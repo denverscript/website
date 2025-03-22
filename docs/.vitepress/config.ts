@@ -21,6 +21,14 @@ export default defineConfig({
         icon: "linkedin",
         link: "https://www.linkedin.com/company/toledo-codes/",
       },
+      {
+        icon: "twitch",
+        link: "https://www.twitch.tv/toledocodes",
+      },
+      {
+        icon: "instagram",
+        link: "https://www.instagram.com/toledocodes/",
+      },
     ],
     nav: [
       { text: "Organizers", link: "/organizers/" },
@@ -69,6 +77,11 @@ export default defineConfig({
                   "https://docs.google.com/forms/d/e/1FAIpQLSdmtoPEoZJ-V300oVOFj5twtTZBcLcDmr-sKHlD6WUrxsSZ0g/viewform?usp=sharing",
                 changeOrigin: true,
                 rewrite: (path) => path.replace(/^\/submit-talk/, ""),
+              },
+              "/demo": {
+                target: "https://forms.gle/6UDkvTjyWUrn2Wrv8",
+                changeOrigin: true,
+                rewrite: (path) => path.replace(/^\/demo/, ""),
               },
             },
           }

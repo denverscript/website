@@ -24,6 +24,12 @@ survey:
   link: /survey/
   buttonText: Take the Survey →
 
+upcoming_event:
+  title: Toledo Codes Demo Day
+  tagline: Join us for our upcoming Demo Day! Show off what you're working on or see what others in the community are building.
+  link: https://lu.ma/event/evt-O68fToUQvFFuCOZ
+  buttonText: Register for Demo Day
+
 features:
   - title: <a target="_blank" rel="noopener noreferrer" href="https://lu.ma/toledocodes">Monthly Meetup</a>
     details: Checkout our <a target="_blank" rel="noopener noreferrer" href="https://lu.ma/toledocodes">lu.ma</a> page to RSVP for the next meetup.
