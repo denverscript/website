@@ -34,7 +34,7 @@ features:
   - title: <a target="_blank" rel="noopener noreferrer" href="https://lu.ma/toledocodes">Monthly Meetup</a>
     details: Checkout our <a target="_blank" rel="noopener noreferrer" href="https://lu.ma/toledocodes">lu.ma</a> page to RSVP for the next meetup.
   - title: <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@ToledoCodes">Talks</a>
-    details: Our <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@ToledoCodes">YouTube channel</a> will livestream talks and let you browse past talks.
+    details: Visit our <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@ToledoCodes">YouTube channel</a> to watch our livestreams and access our growing library of past sessions.
   - title: <a target="_blank" rel="noopener noreferrer" href="/submit-talk/">Submit a talk</a>
     details: Interested in speaking at our meetup? Submit a talk <a target="_blank" rel="noopener noreferrer" href="/submit-talk/">here</a>! Talks of all types and skill levels are welcome.
 ---

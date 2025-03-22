@@ -33,6 +33,7 @@ export default defineConfig({
     nav: [
       { text: "Organizers", link: "/organizers/" },
       { text: "Partners", link: "/partners/" },
+      { text: "Presentations", link: "/presentations/" },
       { text: "Code of Conduct", link: "/code-of-conduct/" },
       { text: "News", link: "/news/" },
       {

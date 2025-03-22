@@ -29,12 +29,6 @@ Meet the organizers! If you see us at the meetup or anywhere else around Toledo,
       <span class="organizer-name"><a href="https://gregmiller.io/" target="_blank" rel="noopener noreferrer">Greg Miller</a></span> - <span class="pronouns">he/him</span> - Over the years my role has shifted to include a variety of roles and experiences. My emphasis is on a web site's front-end and enjoys digging into the concept, visual design, user experience, and product development. I am driven to self improvement, challenging to grow and build skills. I work hard to be a contributing, and self-managing team partner.
     </p>
   </div>
-  <div class="organizer">
-    <img alt="Vagish Vela" src="/images/vagish.jpeg">
-    <p>
-      <span class="organizer-name"><a href="https://www.linkedin.com/in/vagish/" target="_blank" rel="noopener noreferrer">Vagish Vela</a></span> - <span class="pronouns">he/him</span> - I was born and bred in England, grew up most of my life in London until moving across the pond for love to the USA. I love the startup space, traveling, building and marketing cool things. I’m often on the road (or plane) meeting with clients and networking. Outside that you’ll find me volunteering with nonprofits in the education, children, homelessness and more spaces - anywhere I can make an impact and help people!
-    </p>
-  </div>
 </div>
 
 <style>

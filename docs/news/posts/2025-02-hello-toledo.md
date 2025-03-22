@@ -13,7 +13,7 @@ Toledo Codes is officially launching, and we couldn’t be more excited. Whether
 Join Us for the First Toledo Codes Meetup
 
 📅 March 20, 2025
-⏰ 6:00 PM - 7:00 PM
+⏰ 6:00 PM - 8:00 PM
 📍 Toledo Tech Loft - 336 N. Superior St, Toledo, OH 43604
 
 This is your chance to be part of something new—Toledo’s own developer community, focused on fostering collaboration, learning, and innovation.
