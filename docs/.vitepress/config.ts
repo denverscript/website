@@ -31,11 +31,11 @@ export default defineConfig({
       },
     ],
     nav: [
+      { text: "Mission", link: "/mission-and-values" },
       { text: "Organizers", link: "/organizers/" },
       { text: "Partners", link: "/partners/" },
       { text: "Presentations", link: "/presentations/" },
       { text: "Code of Conduct", link: "/code-of-conduct/" },
-      { text: "News", link: "/news/" },
       {
         text: "Submit a Talk",
         link: "https://toledo.codes/submit-talk/",
