@@ -30,12 +30,6 @@ Meet the organizers! If you see us at the meetup or anywhere else around Toledo,
       <span class="organizer-name"><a href="https://gregmiller.io/" target="_blank" rel="noopener noreferrer">Greg Miller</a></span> - <span class="pronouns">he/him</span> - Over the years my role has shifted to include a variety of roles and experiences. My emphasis is on a web site's front-end and enjoys digging into the concept, visual design, user experience, and product development. I am driven to self improvement, challenging to grow and build skills. I work hard to be a contributing, and self-managing team partner.
     </p>
   </div>
-  <div class="organizer">
-    <img alt="Chris Eischen" src="/images/chris.jpg">
-    <p>
-      <span class="organizer-name"><a href="https://www.linkedin.com/in/chris-eischen/" target="_blank" rel="noopener noreferrer">Chris Eischen</a></span> - <span class="pronouns">he/him</span> - I'm a passionate advocate for community development and entrepreneurial growth. As the Director and Co-Founder at <a href="https://toledotechloft.com/" target="_blank" rel="noopener noreferrer">Toledo Tech Loft</a>, I lead initiatives to transform Toledo into a thriving tech hub by providing collaborative workspaces and resources for entrepreneurs and creatives. With over 15 years of experience in the entrepreneurial landscape of Toledo, I've spearheaded a diverse array of ventures, including pioneering printing solutions, revolutionizing car wrapping techniques, and offering invaluable coaching services.
-    </p>
-  </div>
 </div>
 
 <style>
