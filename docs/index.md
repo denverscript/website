@@ -25,10 +25,10 @@ survey:
   buttonText: Take the Survey →
 
 upcoming_event:
-  title: Toledo Codes Demo Day
-  tagline: Join us for our upcoming Demo Day! Show off what you're working on or see what others in the community are building.
-  link: https://lu.ma/event/evt-O68fToUQvFFuCOZ
-  buttonText: Register for Demo Day
+  title: Putting the You in User Research
+  tagline: "Build GOOD software that users WANT to use: How engineers can bridge the gap between technical excellence and user needs."
+  link: https://lu.ma/shbrykbx
+  buttonText: Register for the next talk →
 
 features:
   - title: <a target="_blank" rel="noopener noreferrer" href="https://lu.ma/toledocodes">Monthly Meetup</a>
