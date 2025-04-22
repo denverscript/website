@@ -20,7 +20,11 @@ export default defineConfig({
     sidebar: {
       '/news/': [{
         text: 'JS News Archive',
-        items: [{
+        items:[{
+          text: 'April 2025',
+          link: '/news/2025-04.md',
+        },
+          {
           text: 'February 2025',
           link: '/news/2025-02.md',
         }, {
