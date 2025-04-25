@@ -17,7 +17,12 @@ Meet the organizers! If you see us at the meetup or anywhere else around Toledo,
       <span class="organizer-name"><a href="https://dexterityux.com/" target="_blank" rel="noopener noreferrer">Keith Instone</a></span> - <span class="pronouns">he/him</span> - I am a user experience consultant, working with business and IT teams to define, design and deliver great experiences for people using technology. As part of <a href="https://techtoledo.com/" target="_blank" rel="noopener noreferrer">Tech Toledo</a> (from 2011-2019), I helped foster the tech ecosystem in the Toledo region. With things like Toledo Codes, time for the next iteration.
     </p>
   </div> 
-  <!-- add yash here -->
+  <div class="organizer">
+    <img alt="Ericca Ross" src="/images/eross.jpg">
+    <p>
+      <span class="organizer-name"><a href="https://www.linkedin.com/in/ericcaross/" target="_blank" rel="noopener noreferrer">Ericca Ross</a></span> - <span class="pronouns">she/her</span> - Ericca is the founder of Ross Collaborative Learning and a seasoned expert in leadership development, organization development, and HR design. With over two decades of experience, she partners with businesses and professionals to create impactful, practical training solutions that drive real growth. Ericca is known for her no-nonsense approach, thoughtful facilitation, and deep commitment to building better workplace cultures. Outside of work, she enjoys solo travel, strong coffee, and championing meaningful change.
+    </p>
+  </div>
   <div class="organizer">
     <img alt="Yashraj Mote" src="/images/yash.jpeg">
     <p>

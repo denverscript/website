@@ -27,7 +27,7 @@ survey:
 upcoming_event:
   title: Putting the You in User Research
   tagline: "Build GOOD software that users WANT to use: How engineers can bridge the gap between technical excellence and user needs."
-  link: https://lu.ma/shbrykbx
+  link: 
   buttonText: Register for the next talk →
 
 features:
