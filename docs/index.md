@@ -24,12 +24,6 @@ survey:
   link: /survey/
   buttonText: Take the Survey →
 
-upcoming_event:
-  title: Putting the You in User Research
-  tagline: "Build GOOD software that users WANT to use: How engineers can bridge the gap between technical excellence and user needs."
-  link: 
-  buttonText: Register for the next talk →
-
 features:
   - title: <a target="_blank" rel="noopener noreferrer" href="https://lu.ma/toledocodes">Monthly Meetup</a>
     details: Checkout our <a target="_blank" rel="noopener noreferrer" href="https://lu.ma/toledocodes">lu.ma</a> page to RSVP for the next meetup.
