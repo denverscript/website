@@ -1,8 +1,9 @@
 ---
+trigger: always_on
 description: 
 globs: 
-alwaysApply: true
 ---
+# Cursor Project Rules for Toledo Codes VitePress Site
 
 This project is a VitePress documentation site for Toledo Codes, hosted on GitHub Pages.
 
