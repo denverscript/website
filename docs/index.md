@@ -8,19 +8,16 @@ hero:
     alt: Toledo Codes
   tagline: We are a community of software developers, designers, entrepreneurs, and tech enthusiasts in the Toledo area. We meet every month to talk about technology, software development, and more.
   actions:
+    - theme: brand
+      text: Join our Slack
+      link: https://join.slack.com/t/toledo-codes/shared_invite/zt-3an3p3kds-l_DKfRWRcU4s_qklD04TbQ
     - theme: alt
-      text: See our Calendar
-      link: /calendar/
-    - theme: alt
-      text: See our Mission
-      link: /mission/
-    - theme: alt
-      text: Read the Code of Conduct
-      link: /code-of-conduct/
+      text: View Events
+      link: https://lu.ma/toledocodes
 
 features:
-  - title: <a target="_blank" rel="noopener noreferrer" href="https://lu.ma/toledocodes">Calendar</a>
-    details: Checkout our <a target="_blank" rel="noopener noreferrer" href="https://lu.ma/toledocodes">lu.ma</a> calendar to see our events and region-wide meetups.
+  - title: <a href="/mission/">Community</a>
+    details: Learn about our <a href="/mission/">mission and values</a> as a community of developers, designers, and tech enthusiasts in the Toledo area.
   - title: <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@ToledoCodes/streams">Talks</a>
     details: Visit our <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@ToledoCodes/streams">YouTube channel</a> to watch our livestreams and access our growing library of past sessions.
   - title: <a target="_blank" rel="noopener noreferrer" href="/submit-talk/">Submit a talk</a>

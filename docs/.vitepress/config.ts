@@ -14,6 +14,10 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/toledocodes" },
       { icon: "youtube", link: "https://www.youtube.com/@ToledoCodes" },
       {
+        icon: "slack",
+        link: "https://join.slack.com/t/toledo-codes/shared_invite/zt-3an3p3kds-l_DKfRWRcU4s_qklD04TbQ",
+      },
+      {
         icon: "facebook",
         link: "https://www.facebook.com/profile.php?id=61573722176815",
       },
@@ -31,6 +35,7 @@ export default defineConfig({
       },
     ],
     nav: [
+      { text: "Events", link: "https://lu.ma/toledocodes" },
       { text: "Mission", link: "/mission" },
       { text: "Organizers", link: "/organizers/" },
       { text: "Partners", link: "/partners/" },
