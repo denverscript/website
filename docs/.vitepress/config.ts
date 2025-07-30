@@ -31,7 +31,7 @@ export default defineConfig({
       },
     ],
     nav: [
-      { text: "Mission", link: "/mission-and-values" },
+      { text: "Mission", link: "/mission" },
       { text: "Organizers", link: "/organizers/" },
       { text: "Partners", link: "/partners/" },
       { text: "Presentations", link: "/presentations/" },
