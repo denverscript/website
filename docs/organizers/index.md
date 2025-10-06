@@ -12,7 +12,7 @@ Meet the organizers! If you see us at the meetup or anywhere else around Denver,
   <div class="organizer">
     <img alt="Cassandra" src="/images/cass.png">
     <p>
-      <span class="organizer-name">Cassandra aka Cass</span> - <span class="pronouns">she/her</span> - Front-end Instructor @ Turing School, Former planning committee / content and education team for Develop Denver, Spends her time writing Vanilla JS and React, She misses TypeScript, Vue and Node/Express
+      <span class="organizer-name">Cassandra aka Cass</span> - <span class="pronouns">she/her</span> - Cass is a developer with experience across the stack and a knack for weaving education and code together. She believes that code is a craft and aims to deliver thoughtful, empathetic, and elegant work. She is still waiting for her pull request to Reality™️ to be approved.
     </p>
   </div>
 
