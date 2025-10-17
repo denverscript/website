@@ -29,6 +29,13 @@ Meet the organizers! If you see us at the meetup or anywhere else around Denver,
       <span class="organizer-name">Chad</span> - <span class="pronouns">he/him</span> - Full-snack Developer based in Denver, CO. He codes with javascript, typescript, nodejs, redwoodjs, directus, reactjs and sveltejs 
     </p>
   </div>
+
+  <div class="organizer">
+    <img alt="Dan" src="/images/dan.jpg">
+    <p>
+      <span class="organizer-name">Dan Kat</span> - <span class="pronouns">he/him</span> - Daniel Kat is a (building) architect-turned-software-developer, who likes coding, climbing, and cats, among other things.
+    </p>
+  </div>
 </div>
 
 <style>
