@@ -10,13 +10,6 @@ Meet the organizers! If you see us at the meetup or anywhere else around Denver,
   </div>
 
   <div class="organizer">
-    <img alt="Cassandra" src="/images/cass.png">
-    <p>
-      <span class="organizer-name">Cassandra aka Cass</span> - <span class="pronouns">she/her</span> - Cass is a developer with experience across the stack and a knack for weaving education and code together. She believes that code is a craft and aims to deliver thoughtful, empathetic, and elegant work. She is still waiting for her pull request to Reality™️ to be approved.
-    </p>
-  </div>
-
-  <div class="organizer">
     <img alt="marlena baker" src="/images/marlena.jpg">
     <p>
       <span class="organizer-name">Marlena Baker</span> - she/her - Full Stack Developer seeking her next Adventure, Former co-organizer of the Denver Vue.js Meetup, Recently fell in love with TypeScript, Lately has been playing around with Vue 3 and Svelte
