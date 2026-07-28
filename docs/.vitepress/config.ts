@@ -21,6 +21,9 @@ export default defineConfig({
       '/news/': [{
         text: 'JS News Archive',
         items:[{
+          text: 'July 2026',
+          link: '/news/2026-07.md',
+        },{
           text: 'June 2026',
           link: '/news/2026-06.md',
         },{
